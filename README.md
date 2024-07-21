@@ -10,7 +10,7 @@ Welcome to my GitHub repository! I'm **[Adnan Zahir]**, a passionate web develop
 
 - **Description**: An ongoing project for my highschool's scout organization, with articles, and admin panel.
 - **Technologies Used**: NextJS, TailwindCSS, Supabase
-- **Demo**: [Not Yet Available](#)
+- **Demo**: [Graha Pancaka](https://grahapancaka.vercel.app)
 - **Repository**: [GitHub Repo](https://github.com/adnan-zahir/pramuka)
 
 ### 📁 GECK-0
